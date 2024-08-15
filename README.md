@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ameen Farooqui</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Ameenuddin Farooqui</h1>
 <h3 align="center">A passionate Full Stack developer from Chicago</h3>
 
 - 🔭 I’m currently working on **Full Stack Projects**
