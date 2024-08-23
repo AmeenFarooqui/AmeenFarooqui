@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JS, React, postman, GitHub, HTML, CSS, EXPRESS JS, NODE JS.**
 
-- 📫 How to reach me ✉ **ameenfarooqui101@gmail.com**
+- 📫 How to reach me ✉ **ameenfarooqui01@gmail.com**
 
 - ⚡ Fun fact **I am involved in a lot of organizational and entrepreneurial work in organizations related to Startups, hackathons, fests and workshops and helped in building many communities.**
 
