@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **JS, React, postman, GitHub, HTML, CSS, EXPRESS JS, NODE JS.**
+- 💬 Ask me about **JS, React, GitHub, HTML, CSS, EXPRESS JS, NODE JS.**
 
 - 📫 How to reach me ✉ **ameenfarooqui01@gmail.com**
 
