@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Cybersecurity Tools, Python, Networking, and System Security**
 
-- 📫 How to reach me ✉ **ameenfarooqui01@gmail.com**
+- 📫 How to reach me ✉ **ameenfarooqui01@gmail.com/mfarooqui1@luc.edu**
 
 - ⚡ Fun fact **I co-authored a research paper on blockchain-based certificate verification and have experience in academic and hands-on IT projects, contributing to impactful communities through hackathons and workshops.**
 
