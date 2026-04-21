@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ameenuddin Farooqui</h1>
-<h3 align="center">A passionate Cybersecurity Enthusiast and IT Professional from Chicago</h3>
+<h1 align="center">Hey, I'm Ameen 👋</h1>
+<h3 align="center">Cybersecurity grad student at Loyola University Chicago</h3>
 
-- 🔭 I’m currently working on **Cybersecurity and Information Technology Projects**
+<br/>
 
-- 🌱 I’m currently exploring advanced topics in **Intrusion Detection, Computer Forensics, and Vulnerability Analysis**
+I'm finishing up my MS in Computer Science with a focus on cybersecurity. I've spent the past couple years doing a mix of IT support, security research, and teaching — all at Loyola. Right now I'm also interning at Mimber Academy doing platform security work.
 
-- 💬 Ask me about **Cybersecurity Tools, Python, Networking, and System Security**
+The thing I'm most proud of recently: I co-authored a research paper on website fingerprinting under VPN tunneling that got accepted at **SVCC 2026** (Silicon Valley Cybersecurity Conference). That project involved a lot of packet capture work, traffic analysis, and Python scripting to actually measure how well VPNs hold up against fingerprinting attacks.
 
-- 📫 How to reach me ✉ **ameenfarooqui01@gmail.com/mfarooqui1@luc.edu**
+<br/>
 
-- ⚡ Fun fact **I co-authored a research paper on blockchain-based certificate verification and have experience in academic and hands-on IT projects, contributing to impactful communities through hackathons and workshops.**
+- 🔭 Currently working as a **Cybersecurity Intern at Mimber Academy** — monitoring platforms, hardening systems, and contributing to security documentation
+- 🎓 Wrapping up my **MS in Cybersecurity at Loyola** (graduating Dec 2025)
+- 📄 Published research: *"Evaluating Website Fingerprinting Resistance Under VPN Tunneling"* — SVCC 2026
+- 🛠 I spend most of my time in **Python, Wireshark, Snort, and Linux** — sometimes all at once
+- 📬 Reach me at **ameenfarooqui01@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+
+<h3 align="left">Tools I work with:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo_2022.svg" alt="wireshark" width="40" height="40"/>
   </a>
   <a href="https://www.snort.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Snort_logo.png" alt="snort" width="40" height="40"/>
@@ -22,52 +31,42 @@
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nmap_logo.svg" alt="nmap" width="40" height="40"/>
   </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo_2022.svg" alt="wireshark" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
 </p>
+
+<br/>
+
+<h3 align="left">Some things I've built and worked on:</h3>
+
+**Security Research**
+- Designed and ran experiments on encrypted traffic behavior under VPN tunneling — published at SVCC 2026
+- Built Python tooling to automate packet feature extraction and data collection for the research
+
+**Home Labs**
+- Windows Server Active Directory lab — set up a full domain controller, OUs, Group Policy, user provisioning
+- Snort IDS lab — wrote custom detection rules for port scans, brute-force, and anomalous traffic; validated with Security Onion
+- Windows host forensics — used EnCase and FTK Imager to reconstruct an attack timeline from event logs and registry artifacts
+
+**Other Projects**
+- Blockchain-based certificate verification system using Python, JavaScript, and OpenCerts API
+- Vulnerability exploitation work — buffer overflows, return-to-libc, documented with mitigations
+- Object detection pipeline using YOLO and OpenCV
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
