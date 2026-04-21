@@ -18,47 +18,8 @@ The thing I'm most proud of: I co-authored a research paper on website fingerpri
 <br/>
 
 <h3 align="left">Tools I work with:</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="kali linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://www.snort.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/snort/CC0000" alt="snort" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="metasploit" width="40" height="40"/>
-  </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/splunk/000000" alt="splunk" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+
+<table><tr><td align="center"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><br/>Python</a></td><td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/><br/>Bash</a></td><td align="center"><a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/><br/>PowerShell</a></td><td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><br/>Linux</a></td><td align="center"><a href="https://www.kali.org/"><img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="kali" width="40" height="40"/><br/>Kali</a></td><td align="center"><a href="https://www.wireshark.org/"><img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="wireshark" width="40" height="40"/><br/>Wireshark</a></td><td align="center"><a href="https://www.snort.org/"><img src="https://cdn.simpleicons.org/snort/CC0000" alt="snort" width="40" height="40"/><br/>Snort</a></td><td align="center"><a href="https://www.metasploit.com/"><img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="metasploit" width="40" height="40"/><br/>Metasploit</a></td><td align="center"><a href="https://www.splunk.com/"><img src="https://cdn.simpleicons.org/splunk/000000" alt="splunk" width="40" height="40"/><br/>Splunk</a></td><td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/><br/>Docker</a></td><td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br/>Git</a></td><td align="center"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><br/>TypeScript</a></td><td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br/>JavaScript</a></td><td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/><br/>React</a></td><td align="center"><a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/><br/>Vite</a></td><td align="center"><a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind" width="40" height="40"/><br/>Tailwind</a></td><td align="center"><a href="https://supabase.com/"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="supabase" width="40" height="40"/><br/>Supabase</a></td><td align="center"><a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/><br/>OpenCV</a></td></tr></table>
 
 <br/>
 
